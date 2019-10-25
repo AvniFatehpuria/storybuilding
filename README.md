@@ -6,7 +6,7 @@ The general idea is that each person controls a character that interacts with si
 
 The rules are:
 
-One person adds a bunch of nouns (or phrases that can go in the place of nous, for eg. incredibly deadly viper, rickety wheel, or fashionably attired mongoose) 
+One person adds a bunch of nouns (or phrases that can go in the place of nouns, for eg. incredibly deadly viper, rickety wheel, or fashionably attired mongoose) 
 
 The other person adds sentences with holes for those nouns (for eg. The ____ was so, so big, and immediately, our attentions were turned to it). 
 
@@ -24,4 +24,4 @@ We play to different end conditions. Sometimes we play to whoever laughs first l
 
 This project asumes you have a server with PHP support, and a MySQL database 'storybuilding' with two tables, 'nouns' and 'sentences'. Both tables should have one column each named 'entry' of type text. 
 
-I used XAMPP to set up a local HTTP Apache server and MySQL, which was a very straightforward and quick way (but not the only way) to get up and running. If you want to do that, just set up the db and move this entire repository to XAMPP/htdocs
+I used XAMPP to set up a local HTTP Apache server and MySQL, which was a very straightforward and quick way (but not the only way) to get up and running. If you want to do that, just set up the storybuilding db and move this entire repository to XAMPP/htdocs
