@@ -31,7 +31,7 @@
 ?>
 
 <form>
-<input type="button" onClick="history.go(0)" value="Refresh">
+<input type="button" onClick="history.go(0)" value="Generate new round">
 </form>
 
 </body>
